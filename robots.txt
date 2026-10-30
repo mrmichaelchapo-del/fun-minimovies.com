@@ -1,0 +1,14 @@
+# 🤖 FunMinimovies robots.txt
+# https://funminimovies.com/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /search
+Disallow: /private/
+Disallow: /*?q=
+
+# 🗺️ Sitemap location
+Sitemap: https://funminimovies.com/sitemap.xml
+
+# ⚡ Crawl delay (be nice to the server)
+Crawl-delay: 1
