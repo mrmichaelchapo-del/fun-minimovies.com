@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://funminimovies.com/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/#trending</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/#popular</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/#comedy</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/#action</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/dragons-vs-dinos</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/dragons-vs-dinos.svg</video:thumbnail_loc>
+      <video:title>Dragons VS Dinos</video:title>
+      <video:description>Epic battle between red and blue dragons and dinosaurs under a lightning sky.</video:description>
+      <video:content_loc>https://funminimovies.com/DragonsVSDinos.mp4</video:content_loc>
+      <video:duration>120</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/space-ninjas</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/space-ninjas.svg</video:thumbnail_loc>
+      <video:title>Space Ninjas</video:title>
+      <video:description>Ninjas in space doing ninja things at zero gravity.</video:description>
+      <video:content_loc>https://funminimovies.com/SpaceNinjas.mp4</video:content_loc>
+      <video:duration>90</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/robo-sharks</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/robo-sharks.svg</video:thumbnail_loc>
+      <video:title>Robo Sharks</video:title>
+      <video:description>Mechanical sharks terrorizing the digital ocean.</video:description>
+      <video:content_loc>https://funminimovies.com/RoboSharks.mp4</video:content_loc>
+      <video:duration>100</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/mega-rex</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/mega-rex.svg</video:thumbnail_loc>
+      <video:title>Mega Rex</video:title>
+      <video:description>A colossal T-Rex takes on the city.</video:description>
+      <video:content_loc>https://funminimovies.com/MegaRex.mp4</video:content_loc>
+      <video:duration>110</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/cyber-pirates</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/cyber-pirates.svg</video:thumbnail_loc>
+      <video:title>Cyber Pirates</video:title>
+      <video:description>Pirates sailing the digital seas in search of code treasure.</video:description>
+      <video:content_loc>https://funminimovies.com/CyberPirates.mp4</video:content_loc>
+      <video:duration>95</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/ghost-bus</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/ghost-bus.svg</video:thumbnail_loc>
+      <video:title>Ghost Bus</video:title>
+      <video:description>A haunted bus that never stops.</video:description>
+      <video:content_loc>https://funminimovies.com/GhostBus.mp4</video:content_loc>
+      <video:duration>85</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/zombie-cats</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/zombie-cats.svg</video:thumbnail_loc>
+      <video:title>Zombie Cats</video:title>
+      <video:description>Zombie cats take over the neighborhood.</video:description>
+      <video:content_loc>https://funminimovies.com/ZombieCats.mp4</video:content_loc>
+      <video:duration>75</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/haunted-toaster</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/haunted-toaster.svg</video:thumbnail_loc>
+      <video:title>Haunted Toaster</video:title>
+      <video:description>A toaster with a ghostly secret.</video:description>
+      <video:content_loc>https://funminimovies.com/HauntedToaster.mp4</video:content_loc>
+      <video:duration>60</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/scream-goat</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/scream-goat.svg</video:thumbnail_loc>
+      <video:title>Scream Goat</video:title>
+      <video:description>The goat that screams at everything.</video:description>
+      <video:content_loc>https://funminimovies.com/ScreamGoat.mp4</video:content_loc>
+      <video:duration>50</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/night-parkour</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/night-parkour.svg</video:thumbnail_loc>
+      <video:title>Night Parkour</video:title>
+      <video:description>Rooftop parkour under the midnight sky.</video:description>
+      <video:content_loc>https://funminimovies.com/NightParkour.mp4</video:content_loc>
+      <video:duration>105</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/fail-compilation</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/fail-compilation.svg</video:thumbnail_loc>
+      <video:title>Fail Compilation</video:title>
+      <video:description>The best fails of the year.</video:description>
+      <video:content_loc>https://funminimovies.com/FailCompilation.mp4</video:content_loc>
+      <video:duration>180</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/cat-vibes</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/cat-vibes.svg</video:thumbnail_loc>
+      <video:title>Cat Vibes</video:title>
+      <video:description>Cats doing cat things, vibing hard.</video:description>
+      <video:content_loc>https://funminimovies.com/CatVibes.mp4</video:content_loc>
+      <video:duration>70</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/broccoli-gone-wrong</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/broccoli-gone-wrong.svg</video:thumbnail_loc>
+      <video:title>Broccoli Gone Wrong</video:title>
+      <video:description>Broccoli chaos in the kitchen.</video:description>
+      <video:content_loc>https://funminimovies.com/BroccoliGoneWrong.mp4</video:content_loc>
+      <video:duration>65</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/grandma-gamer</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/grandma-gamer.svg</video:thumbnail_loc>
+      <video:title>Grandma Gamer</video:title>
+      <video:description>Grandma destroys everyone online.</video:description>
+      <video:content_loc>https://funminimovies.com/GrandmaGamer.mp4</video:content_loc>
+      <video:duration>80</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/sneeze-fail</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/sneeze-fail.svg</video:thumbnail_loc>
+      <video:title>Sneeze Fail</video:title>
+      <video:description>The sneeze that ruined everything.</video:description>
+      <video:content_loc>https://funminimovies.com/SneezeFail.mp4</video:content_loc>
+      <video:duration>40</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/turbo-chase</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/turbo-chase.svg</video:thumbnail_loc>
+      <video:title>Turbo Chase</video:title>
+      <video:description>High-speed chase through the city.</video:description>
+      <video:content_loc>https://funminimovies.com/TurboChase.mp4</video:content_loc>
+      <video:duration>130</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/lava-escape</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/lava-escape.svg</video:thumbnail_loc>
+      <video:title>Lava Escape</video:title>
+      <video:description>Running from lava with zero chill.</video:description>
+      <video:content_loc>https://funminimovies.com/LavaEscape.mp4</video:content_loc>
+      <video:duration>95</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/sky-punch</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/sky-punch.svg</video:thumbnail_loc>
+      <video:title>Sky Punch</video:title>
+      <video:description>Fighting in the clouds.</video:description>
+      <video:content_loc>https://funminimovies.com/SkyPunch.mp4</video:content_loc>
+      <video:duration>100</video:duration>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://funminimovies.com/movies/blade-runner-x</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://funminimovies.com/posters/blade-runner-x.svg</video:thumbnail_loc>
+      <video:title>Blade Runner X</video:title>
+      <video:description>Swords, speed, and neon.</video:description>
+      <video:content_loc>https://funminimovies.com/BladeRunnerX.mp4</video:content_loc>
+      <video:duration>115</video:duration>
+    </video:video>
+  </url>
+
+</urlset>
