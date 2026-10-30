@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FunMinimovies 🎬 | Free Mini Movies & Short Videos</title>
+  <meta name="description" content="FunMinimovies is your spot for free mini movies — trending, popular, comedy, and action short videos. Dragons, ninjas, sharks, and chaos all in one unstoppable feed.">
+  <meta name="keywords" content="mini movies, short videos, free movies, fun videos, comedy clips, action clips">
+  <meta name="author" content="FunMinimovies">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://funminimovies.com/">
+
+  <meta property="og:title" content="FunMinimovies 🎬 | Free Mini Movies">
+  <meta property="og:description" content="Trending, popular, comedy, and action mini movies all in one unstoppable feed.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://funminimovies.com/">
+  <meta property="og:image" content="https://funminimovies.com/posters/dragons-vs-dinos.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="FunMinimovies 🎬 | Free Mini Movies">
+  <meta name="twitter:description" content="Trending, popular, comedy, and action mini movies all in one feed.">
+  <meta name="twitter:image" content="https://funminimovies.com/posters/dragons-vs-dinos.svg">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "FunMinimovies",
+    "url": "https://funminimovies.com/",
+    "description": "Free mini movies — trending, popular, comedy, and action short videos.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://funminimovies.com/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  <style>
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: sans-serif;
+      background: #111;
+      color: #eee;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.5;
+    }
+
+    header { margin-bottom: 20px; }
+
+    .title-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .title-row h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+    .title-row img {
+      width: 60px;
+      height: 60px;
+      border-radius: 8px;
+    }
+
+    nav a { color: #4fc3f7; margin-right: 12px; text-decoration: none; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+
+    form[role="search"] {
+      display: flex;
+      gap: 8px;
+      margin: 16px 0;
+      flex-wrap: wrap;
+    }
+    form[role="search"] input {
+      padding: 10px 14px;
+      border-radius: 6px;
+      border: 1px solid #444;
+      background: #1a1a1a;
+      color: #eee;
+      font-size: 15px;
+      flex: 1;
+      min-width: 200px;
+    }
+    form[role="search"] button {
+      padding: 10px 18px;
+      border-radius: 6px;
+      border: none;
+      background: #4fc3f7;
+      color: #000;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    form[role="search"] button:hover { background: #81d4fa; }
+
+    .row {
+      display: flex;
+      overflow-x: auto;
+      gap: 12px;
+      padding-bottom: 12px;
+      scroll-behavior: smooth;
+    }
+    .row::-webkit-scrollbar { height: 8px; }
+    .row::-webkit-scrollbar-thumb { background: #444; border-radius: 4px; }
+
+    .card { flex: 0 0 auto; }
+
+    .card video {
+      width: 300px;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      border-radius: 8px;
+      display: block;
+      background: #000;
+      transition: transform 0.2s;
+    }
+    .card video:hover { transform: scale(1.05); }
+
+    .card p { margin: 6px 0 0; font-size: 14px; color: #ddd; }
+
+    footer { margin-top: 40px; font-size: 13px; color: #888; }
+    footer a { color: #4fc3f7; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="title-row">
+      <img src="movieclip.gif" alt="Animated movie clip" width="60" height="60">
+      <h1>🎬 Movie Feed 🍿</h1>
+      <img src="movieclip2.gif" alt="Animated movie clip" width="60" height="60">
+    </div>
+    <p>Free mini movies — trending, popular, comedy, and action. Unstoppable feed fr fr 🔥</p>
+
+    <form role="search" action="/search" method="get">
+      <label for="q" style="display:none">Search movies</label>
+      <input type="search" id="q" name="q" placeholder="Search movies... dragons, ninjas, sharks">
+      <button type="submit">Search 🔍</button>
+    </form>
+
+    <nav aria-label="Categories">
+      <a href="#trending">Trending</a>
+      <a href="#popular">Popular</a>
+      <a href="#comedy">Comedy</a>
+      <a href="#action">Action</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="trending" aria-labelledby="trending-h">
+      <h2 id="trending-h">🔥 Trending</h2>
+      <div class="row">
+        <article class="card"><video src="DragonsVSDinos.mp4" poster="posters/dragons-vs-dinos.svg" controls preload="none"></video><p>🐲 Dragons VS Dinos 🦖</p></article>
+        <article class="card"><video src="SpaceNinjas.mp4" poster="posters/space-ninjas.svg" controls preload="none"></video><p>🥷 Space Ninjas 🚀</p></article>
+        <article class="card"><video src="RoboSharks.mp4" poster="posters/robo-sharks.svg" controls preload="none"></video><p>🦈 Robo Sharks 🤖</p></article>
+        <article class="card"><video src="MegaRex.mp4" poster="posters/mega-rex.svg" controls preload="none"></video><p>🦖 Mega Rex 💥</p></article>
+        <article class="card"><video src="CyberPirates.mp4" poster="posters/cyber-pirates.svg" controls preload="none"></video><p>🏴‍☠️ Cyber Pirates ⚡</p></article>
+      </div>
+    </section>
+
+    <section id="popular" aria-labelledby="popular-h">
+      <h2 id="popular-h">⭐ Popular</h2>
+      <div class="row">
+        <article class="card"><video src="GhostBus.mp4" poster="posters/ghost-bus.svg" controls preload="none"></video><p>🚌 Ghost Bus 👻</p></article>
+        <article class="card"><video src="ZombieCats.mp4" poster="posters/zombie-cats.svg" controls preload="none"></video><p>🐱 Zombie Cats 🧟</p></article>
+        <article class="card"><video src="HauntedToaster.mp4" poster="posters/haunted-toaster.svg" controls preload="none"></video><p>🍞 Haunted Toaster 👻</p></article>
+        <article class="card"><video src="ScreamGoat.mp4" poster="posters/scream-goat.svg" controls preload="none"></video><p>🐐 Scream Goat 😱</p></article>
+        <article class="card"><video src="NightParkour.mp4" poster="posters/night-parkour.svg" controls preload="none"></video><p>🌙 Night Parkour 🏃</p></article>
+      </div>
+    </section>
+
+    <section id="comedy" aria-labelledby="comedy-h">
+      <h2 id="comedy-h">😂 Comedy</h2>
+      <div class="row">
+        <article class="card"><video src="FailCompilation.mp4" poster="posters/fail-compilation.svg" controls preload="none"></video><p>💀 Fail Compilation 😂</p></article>
+        <article class="card"><video src="CatVibes.mp4" poster="posters/cat-vibes.svg" controls preload="none"></video><p>🐱 Cat Vibes 😎</p></article>
+        <article class="card"><video src="BroccoliGoneWrong.mp4" poster="posters/broccoli-gone-wrong.svg" controls preload="none"></video><p>🥦 Broccoli Gone Wrong 😭</p></article>
+        <article class="card"><video src="GrandmaGamer.mp4" poster="posters/grandma-gamer.svg" controls preload="none"></video><p>🎮 Grandma Gamer 👵</p></article>
+        <article class="card"><video src="SneezeFail.mp4" poster="posters/sneeze-fail.svg" controls preload="none"></video><p>🤧 Sneeze Fail 💀</p></article>
+      </div>
+    </section>
+
+    <section id="action" aria-labelledby="action-h">
+      <h2 id="action-h">💥 Action</h2>
+      <div class="row">
+        <article class="card"><video src="TurboChase.mp4" poster="posters/turbo-chase.svg" controls preload="none"></video><p>🚗 Turbo Chase 🏁</p></article>
+        <article class="card"><video src="LavaEscape.mp4" poster="posters/lava-escape.svg" controls preload="none"></video><p>🌋 Lava Escape 🏃</p></article>
+        <article class="card"><video src="SkyPunch.mp4" poster="posters/sky-punch.svg" controls preload="none"></video><p>🥊 Sky Punch ☁️</p></article>
+        <article class="card"><video src="BladeRunnerX.mp4" poster="posters/blade-runner-x.svg" controls preload="none"></video><p>⚔️ Blade Runner X 🗡️</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 FunMinimovies 🎬 — free mini movies for everyone.</p>
+    <p><a href="/sitemap.xml">Sitemap</a> · <a href="/robots.txt">Robots</a></p>
+  </footer>
+
+</body>
+</html>
